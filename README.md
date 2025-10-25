@@ -25,8 +25,6 @@ AI-Learning-Chatbot/
 ├── responses.json              
 ├── learned_responses.json      
 ├── requirements.txt            
-├── assets/                     
-│   └── chatbot_screenshot.png  
 └── README.md                   
 ```
 
