@@ -1,0 +1,5 @@
+streamlit
+textblob
+rapidfuzz
+emoji
+pyttsx3
