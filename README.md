@@ -21,13 +21,13 @@ It can respond to predefined queries, learn new answers from users, and personal
 ```
 AI-Learning-Chatbot/
 │
-├── chatbot.py                  # Main chatbot script
-├── responses.json              # Predefined question-response pairs
-├── learned_responses.json      # Learned responses saved dynamically
-├── requirements.txt            # Python dependencies
-├── assets/                     # Screenshots or images
-│   └── chatbot_screenshot.png  # Example screenshot
-└── README.md                   # Project documentation
+├── chatbot.py                  
+├── responses.json              
+├── learned_responses.json      
+├── requirements.txt            
+├── assets/                     
+│   └── chatbot_screenshot.png  
+└── README.md                   
 ```
 
 ---
@@ -37,8 +37,8 @@ AI-Learning-Chatbot/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/AI-Learning-Chatbot.git
-cd AI-Learning-Chatbot
+git clone https://github.com/Mamoonkhan11/Chatbot-with-python
+cd Chatbot-with-python
 ```
 
 ### 2. Create a Virtual Environment
@@ -95,12 +95,6 @@ You: What is AI?
 
 ---
 
-## 📸 Screenshot
-
-![Chatbot Screenshot](assets/chatbot_screenshot.png)
-
----
-
 ## 🔒 Notes
 
 * Always keep `learned_responses.json` to persist chatbot knowledge.
@@ -117,8 +111,3 @@ You: What is AI?
 * 🤖 Integrate with **GPT API** for smarter responses
 
 ---
-
-## 🧑‍💻 Author
-
-**Mamoon Khan**
-[GitHub Profile](https://github.com/Mamoonkhan11)
