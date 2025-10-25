@@ -19,14 +19,12 @@ It can respond to predefined queries, learn new answers from users, and personal
 ## 🏗️ Project Structure
 
 ```
-AI-Learning-Chatbot/
+Chatbot-with-python/
 │
 ├── chatbot.py                  
 ├── responses.json              
 ├── learned_responses.json      
 ├── requirements.txt            
-├── assets/                     
-│   └── chatbot_screenshot.png  
 └── README.md                   
 ```
 
